@@ -2,6 +2,8 @@
 
 http://ssr-e9ox5m.turbo360-vertex.com
 
+http://ssr-e9ox5m.turbo360-vertex.com/auth
+
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
 ## Instructions
